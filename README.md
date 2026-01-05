@@ -9,7 +9,7 @@
 An interactive Exploratory Data Analysis (EDA) dashboard built with **Streamlit** to visualize and analyze over 120 years of Olympic history (from Athens 1896 to Rio 2016).
 
 ## 🚀 Live Demo
-> [View Live App]([https://your-app-link.streamlit.app/](https://olympics-analysis-web-app-0v23.onrender.com/))
+ [View Live App]([https://your-app-link.streamlit.app/](https://olympics-analysis-web-app-0v23.onrender.com/))
 
 ## 📌 Project Overview
 The **Olympics Data Analysis Web App** is a data science project that transforms raw historical data into actionable insights. By using interactive visualizations, users can explore how the Olympic Games have evolved, which countries dominate specific sports, and how athlete demographics have changed over a century.
