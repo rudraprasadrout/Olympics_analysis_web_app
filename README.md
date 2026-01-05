@@ -1,11 +1,13 @@
 # Olympics Data Analysis Web App 🏅
 
-An interactive Exploratory Data Analysis (EDA) dashboard built with **Streamlit** to visualize and analyze over 120 years of Olympic history (from Athens 1896 to Rio 2016).
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
+An interactive Exploratory Data Analysis (EDA) dashboard built with **Streamlit** to visualize and analyze over 120 years of Olympic history (from Athens 1896 to Rio 2016).
+
 ## 🚀 Live Demo
 > **Note:** If you have deployed this on Streamlit Cloud, add your link here!
 > [View Live App]([https://your-app-link.streamlit.app/](https://olympics-analysis-web-app-0v23.onrender.com/))
