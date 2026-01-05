@@ -9,7 +9,6 @@
 An interactive Exploratory Data Analysis (EDA) dashboard built with **Streamlit** to visualize and analyze over 120 years of Olympic history (from Athens 1896 to Rio 2016).
 
 ## 🚀 Live Demo
-> **Note:** If you have deployed this on Streamlit Cloud, add your link here!
 > [View Live App]([https://your-app-link.streamlit.app/](https://olympics-analysis-web-app-0v23.onrender.com/))
 
 ## 📌 Project Overview
