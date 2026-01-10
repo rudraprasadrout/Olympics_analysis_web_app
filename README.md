@@ -74,6 +74,7 @@ The project utilizes the **120 years of Olympic history: athletes and results** 
    ```bash
    streamlit run app.py
    ```
+##
 ### 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rudraprasadrout/Olympics_analysis_web_app/issues).
 
