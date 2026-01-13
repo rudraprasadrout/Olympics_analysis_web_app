@@ -64,12 +64,12 @@ The project utilizes the **120 years of Olympic history: athletes and results** 
    # Activate on Mac/Linux:
    source venv/bin/activate
    ```
-3.**Install dependencies:**
+3. **Install dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
-4.**Run the app:**
+4. **Run the app:**
 
    ```bash
    streamlit run app.py
